@@ -1,4 +1,4 @@
-# Token Ekonomisi: Web3 İnterneti Yeniden Nasıl İcat Etti
+# Token Ekonomisi: Web3 İnterneti Nasıl Yeniden İcat Ediyor
 İkinci baskı, ilk düzenlenmiş baskı, Kasım 2020.<br>
 İlk baskı BlockchainHub Berlin https://blockchainhub.net tarafından Haziran 2019'da “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” adı altına yayımlanmıştır ve iki düzenlenmiş baskısı vardır.
 
