@@ -18,7 +18,7 @@ Kapak tasarımı: Carmen Fuchs<br>
 eBook ISBN: 978-3-9821038-3-9 <br>
 Paperback ISBN: 978-3-9821038-1-5 <br>
 Hardcover ISBN: 978-3-9821038-4-6<br>
-Türkçe çevirisi: [Enes Türk](https://twitter.com/enesturkcom), Mert Matsumoto, Berkin Ayberk<br>
+Türkçe çevirisi: [Enes Türk](https://twitter.com/regenesturk), Mert Matsumoto, Berkin Ayberk<br>
 
 
 
