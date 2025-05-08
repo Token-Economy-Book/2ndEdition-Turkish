@@ -1,3 +1,10 @@
+⚠️ **Outdated — This is a translation of the 2nd Edition of Token Economy (2020).**
+
+👉 **Current 3rd Edition (2025):**  
+• GitHub landing repo → <https://github.com/Token-Economy-Book/token-economy-current>  
+• Open-access web version → <https://token.kitchen/token-economy/third-edition>
+
+
 # Token Ekonomisi: Web3 İnterneti Nasıl Yeniden İcat Ediyor
 İkinci baskı, ilk düzenlenmiş baskı, Kasım 2020.<br>
 İlk baskı BlockchainHub Berlin https://blockchainhub.net tarafından Haziran 2019'da “Token Economy: How Blockchain & Smart contracts revolutionize the Economy” adı altına yayımlanmıştır ve iki düzenlenmiş baskısı vardır.
